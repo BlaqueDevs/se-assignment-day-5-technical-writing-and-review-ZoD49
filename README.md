@@ -55,12 +55,12 @@
     4. Conveys Importance
     5. Help readers find information
 ## 10. What are some best practices for creating effective headings and subheadings?
-    1. Subheadings should be brief and accurately describe its content
-    2. Use a consistent presentation of case, capitization and colour accross your site
-    3. Include relevant keywords in your subheadings to signal to search engines what the section is about 
-    4. Use transitions in your headings and subheadings
-    5. Use heirarchy in your headings and subheadings
-    6. Prioritize readability and natural language usage over keyword stuffing
+    1. Subheadings should be brief and accurately describe its content.
+    2. Use a consistent presentation of case, capitization and colour accross your site.
+    3. Include relevant keywords in your subheadings to signal to search engines what the section is about.
+    4. Use transitions in your headings and subheadings.
+    5. Use heirarchy in your headings and subheadings.
+    6. Prioritize readability and natural language usage over keyword stuffing.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
     The introduction of a README file should have 
     1. An introduction to the project
